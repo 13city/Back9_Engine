@@ -1,6 +1,9 @@
 # Bug Bounty Recon Tools
 
-![Recon in Action](back9.jpg)
+
+<p align="center">
+  <img src="back9.jpg" alt="Recon in Action" width="600" height="400"/>
+</p>
 
 
 ## Overview
