@@ -1,0 +1,6 @@
+# Ignore specific file paths
+Setup/tools.txt
+Targets/Tesls/webhook.txt
+
+# Ignore all files in the Logs directory
+Logs/
